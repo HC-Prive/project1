@@ -7,7 +7,7 @@
   <body>
     <h1>Project 1</h1>
     <?php
-      echo "<p>Dit is index.php van project 1</p>"
+      echo "<p>Dit is index.php van project 1</p>";
      ?>
   </body>
 </html>
